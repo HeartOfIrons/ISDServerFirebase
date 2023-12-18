@@ -3,6 +3,8 @@ ISD Server Firebase is a Firebase dedicated to the ISD Servers (Internal Securit
 
 Each documented file is carefully considered, researched, and fabricated specifically for use and application of ISD Servers (Internal Security Department).
 
+You may see documents with [EXPUNGED] or [CLASSIFIED] or "▇" syntax/letters, this evidently shows that the area it's marking is classified to your eyes and authorization higher is required.
+
 
 # Document Base
 There are currently [ 0 ] known base documents created.
